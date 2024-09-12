@@ -14,5 +14,5 @@ After that we will judge its webApp, in our next-next laboratory.
 
 Folder Name Should Be "GroupNumber_WebApp.
 
-Deadline is on 18 Wednesday.
+Deadline is on 26 Thursday.
 
