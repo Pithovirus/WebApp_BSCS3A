@@ -1,18 +1,45 @@
-# WebApp_BSCS3A
+# Damuhal's Cafe Web App
 
-What to do?
+Welcome to Damuhal's Cafe Web App! This application serves as a digital platform for our coffee shop, providing users with information about our offerings, location, and more.
 
-Group yourselves in to 6.
+Website Link : https://coffee-shop-wheat-two.vercel.app/
 
-Create a static webapp using react w/ tailwind as css.
-Just a Simple frondEnd WebApp will do.
-Each WebApp should have a readme.
-Also at the Contact Us/About Us, Each one of you should be on that page with roles, Example: Gene Caleb C. Carbonilla -FronEnd Developer.
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
 
-With at least 3-4 pages,
-After that we will judge its webApp, in our next-next laboratory.
 
-Folder Name Should Be "GroupNumber_WebApp.
+## Features
+- **Homepage**: Welcoming message with animations and images.
+- **Menu**: Showcase our shop's products.
+- **About Us Section**: Information about Damuhal's Cafe.
+- **Contact**: For customers to reach out to us.
+- **Cart**: To show the users order.
+- **Google Maps Integration**: View our cafe's location.
 
-Deadline is on 26 Thursday.
+## Technologies Used
+- **Next.js**: React framework for server-side rendering and static site generation.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Framer Motion**: Animation library for React.
+- **Clerk Auth**: For user authentication.
+- **React Icons**: Library for customizable icons.
 
+## Installation
+To get started with the project, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/damuhals-cafe.git
+   cd damuhals-cafe
+2. **Install Dependencies**:
+    ```bash
+   npm install
+3. **Start the development server**:
+   ```bash
+   npm run dev
+## Usage
+- Navigate through the homepage to explore our coffee offerings and learn more about Damuhal's Cafe.
+- Use the floating order button to quickly access ordering options.
+- Check out the reviews section to read what our customers say!
