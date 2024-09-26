@@ -1,18 +1,43 @@
-# WebApp_BSCS3A
+# Group 4 - KANTONIZE
 
-What to do?
+## _Kantonan Na!_
 
-Group yourselves in to 6.
+Kantonize is a Software as a Service Application that allows users to customize their pancit canton based on their preferences.
 
-Create a static webapp using react w/ tailwind as css.
-Just a Simple frondEnd WebApp will do.
-Each WebApp should have a readme.
-Also at the Contact Us/About Us, Each one of you should be on that page with roles, Example: Gene Caleb C. Carbonilla -FronEnd Developer.
+The name "KANTONIZE" came from the work KANTON AND CUSTOMIZE, hence, the name KANTONIZE.
 
-With at least 3-4 pages,
-After that we will judge its webApp, in our next-next laboratory.
+## Web Features
 
-Folder Name Should Be "GroupNumber_WebApp.
+- User Sign in and Signup
+- Aesthetic Design
+- Customzable Pancit Kantons based on customer's preference.
+- Product Check Out
+- Shop Exclusive Mix Recommendation
+- Allows Feedback through Contact us Page
+- Original Illustrations
 
-Deadline is on 26 Thursday.
+## Tech
 
+Kantonize uses a number of open source projects to work properly:
+
+- Next.js: React framework for server-side rendering and static site generation.
+- Tailwind CSS: Utility-first CSS framework for styling.
+- Framer Motion: Animation library for React.
+- Clerk Auth: For user authentication.
+- ShadCN: for preset components
+
+## Pages:
+
+1. Home Page
+2. Kantonize [Customize Page]
+3. About Us Page
+4. Contact Us Page
+5. Check Out Page
+
+## Members:
+
+1. Mark Andrei Encanto
+2. Khee Jay Galvez
+3. Chariz Dianne Falco
+4. Cherilyn Marie Deocampo
+5. Jephone Israel Jireh Torre
