@@ -1,0 +1,3 @@
+[submodule "Group2_WebApp"]
+	path = Group2_WebApp
+	url = git@github.com:computerscience-person/Group2_WebApp-CCS227.git
